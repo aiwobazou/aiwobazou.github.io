@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 找到这个教程，接下来就注定该你当上CEO，迎娶白富美
 
-You can use the [editor on GitHub](https://github.com/aiwobazou/aiwobazou.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![登陆到APP内](https://github.com/yeshun/blog-s-resources/blob/master/1.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
