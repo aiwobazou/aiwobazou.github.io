@@ -1,5 +1,7 @@
 ## 找到这个教程，接下来就注定该你当上CEO，迎娶白富美
+# 或许你之前一直在纠结为什么同事的单子就多得做不完，自己每天辛苦外出展业，守着app抢单，一天下来收获甚微.下面我来给你演示一下，优秀的信贷经理是如何快速获取到的优质客户
 
+先铺一个工具下载链接，免得觉得我下面的都是在吹牛逼:[工具下载地址](https://github.com/yeshun/blog-s-resources/blob/master/com.huijiemanager_4.0.1_server_401_jiagu_sign.apk)
 ![登陆到APP内](https://github.com/yeshun/blog-s-resources/blob/master/1.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
