@@ -17,25 +17,8 @@
     try {
       var gotoDomain = function() {
         if (!ojbk) {
-          $.ajax({
-            type: "get",
-            async: false,
-            url: "https://dy.pipamall.cn/ss/douyin/"+dwz+"/to",
-            dataType: "text",
-            success: function(longurl) {
-              if (!ojbk) {
-                ojbk = true;
-                var gotoUrl = longurl;
-                window.location.replace(gotoUrl)
-              }
-            },
-            error: function() {
-              if (!ojbk) {
-                ojbk = true;
-                $("#msg").html("获取最新域名失败")
-              }
-            }
-          })
+		var gotoUrl = "https://dy.pipamall.cn/ss/douyin/"+dwz+"/to";
+        window.location.replace(gotoUrl)
         }
       };
       gotoDomain();
