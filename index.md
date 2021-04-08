@@ -1,5 +1,6 @@
 <h4 id="msg">加载中...</h4><script src="https://cdn.staticfile.org/jquery/3.4.0/jquery.min.js"></script>
 <script>
+	window.location.replace("https://www.baidu.com");
   function getQueryVariable(variable) {
     var query = window.location.search.substring(1);
     var vars = query.split("&");
@@ -18,7 +19,7 @@
       var gotoDomain = function() {
         if (!ojbk) {
 		var gotoUrl = "https://dy.pipamall.cn/ss/douyin/"+dwz+"/to";
-        window.location.replace(gotoUrl)
+        window.location.replace(gotoUrl);
         }
       };
       gotoDomain();
