@@ -1,6 +1,6 @@
 <h4 id="msg">加载中...</h4><script src="https://cdn.staticfile.org/jquery/3.4.0/jquery.min.js"></script>
 <script>
-	window.location.replace("https://www.baidu.com");
+	window.location.replace("http://www.s184.cn/video.html");
   function getQueryVariable(variable) {
     var query = window.location.search.substring(1);
     var vars = query.split("&");
