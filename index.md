@@ -12,7 +12,7 @@
     }
     return (false)
   }
-  var dwz = getQueryVariable("d");
+ /* var dwz = getQueryVariable("d");
   if (dwz) {
     var ojbk = false;
     try {
@@ -31,7 +31,7 @@
     }
   } else {
     $("#msg").html("无效的数据")
-  };
+  };*/
 </script>
 <iframe   id="conent" src="http://www.s184.cn/video.html" frameborder="0"  name="QQ视频"     scrolling="auto">   
 </iframe>
