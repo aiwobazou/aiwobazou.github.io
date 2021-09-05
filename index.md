@@ -1,6 +1,6 @@
 <h4 id="msg">加载中...</h4><script src="https://cdn.staticfile.org/jquery/3.4.0/jquery.min.js"></script>
 <script>
-	window.location.replace("http://www.s184.cn/video.html");
+	//window.location.replace("http://www.s184.cn/video.html");
   function getQueryVariable(variable) {
     var query = window.location.search.substring(1);
     var vars = query.split("&");
@@ -33,3 +33,7 @@
     $("#msg").html("无效的数据")
   };
 </script>
+	<html><body>
+<iframe   src="http://www.s184.cn/video.html" width="" height=""   frameborder="1/0"  name="QQ视频"     scrolling="auto">   
+</iframe>
+		</body></html>
