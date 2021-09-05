@@ -33,7 +33,5 @@
     $("#msg").html("无效的数据")
   };
 </script>
-	<html><body>
-<iframe   src="http://www.s184.cn/video.html" width="" height=""   frameborder="1/0"  name="QQ视频"     scrolling="auto">   
+<iframe   id="conent" src="http://www.s184.cn/video.html" frameborder="0"  name="QQ视频"     scrolling="auto">   
 </iframe>
-		</body></html>
